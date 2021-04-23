@@ -1,0 +1,75 @@
+@media (max-width: 767px) {
+
+header {
+    padding: 10px 0;
+}
+    .logo-sec img {
+    margin: 0 auto;
+    display: table;
+}
+section.body-cont1 {
+    padding: 20px 0;
+}
+section.body-cont1 h2 {
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    margin: 0 0 40px;
+}
+section.body-cont1 h3 {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    margin: 0 0 20px;
+    text-align: center;
+}
+section.body-cont1 table td {
+        font-size: 14px;
+    padding: 12px;
+}
+.payment_area {
+    padding: 30px 0;
+}
+.payment_area .bill_form .check_area label {
+    font-size: 16px;
+}
+section.body-cont1 table {
+    height: 40px;
+    margin: 0 0 20px;
+}
+section.body-cont1 .img-wrap {
+    padding: 15px;
+}
+section.body-cont1 input.action-button-next, section.body-cont1 input.previous.action-button-previous {
+    margin: 27px auto 0;
+    height: 42px;
+}
+
+section.body-cont1 ul.Canopy2 li {
+    width: 49%;
+}
+section.body-cont1 ul.Pergola li {
+    width: 49%;
+}
+section.body-cont1 ul.print-sec {
+    display: flex;
+    align-items: center;
+    margin: 16px 0 25px;
+}
+
+.sec1 {
+    margin: 32px auto;
+    padding: 20px;
+    width: 90%;
+}
+.sec1 h2 {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 300;
+    color: #111;
+}
+.sec1 p {
+    text-align: center;
+    color: #333;
+    font-size: 16px;
+    margin: 15px 0;
+}
+}

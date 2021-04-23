@@ -1,0 +1,2 @@
+
+[23-Mar-2021 09:28:46 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/custompe/public_html/app/Http/Controllers/Front/MainHomeController.php on line 249
