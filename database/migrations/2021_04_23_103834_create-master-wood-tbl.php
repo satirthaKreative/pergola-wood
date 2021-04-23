@@ -15,6 +15,9 @@ class CreateMasterWoodTbl extends Migration
     {
         Schema::create('master_wood_tbl', function (Blueprint $table) {
             $table->bigIncrements('id');
+            $table->string('wood_name');
+            $table->longText('wood_img');
+            $table->enum('admin_action',['yes','no'])->default('yes');
             $table->timestamps();
         });
     }
